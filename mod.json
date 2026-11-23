@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "rosamelano.ai-level-creator",
+	"name": "AI Level Creator",
+	"version": "v1.0.0",
+	"developer": "Rosa Melano",
+	"description": "Menú de IA en el editor que genera niveles automáticamente a partir de una descripción."
+}
